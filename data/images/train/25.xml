@@ -1,14 +1,26 @@
-<annotation verified="yes">
-	<folder>train</folder>
+<annotation>
+	<folder>raw</folder>
 	<filename>25.jpg</filename>
-	<path>/Users/saraswathy/Desktop/new_test/object_detection_demo/data/images/train/25.jpg</path>
+	<path>/Users/saraswathy/Desktop/new_test/object_detection_demo/data/raw/25.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>193</width>
+		<height>138</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
+	<object>
+		<name>boss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>39</ymin>
+			<xmax>112</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
 </annotation>
