@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>11</xmin>
-			<ymin>413</ymin>
-			<xmax>82</xmax>
-			<ymax>494</ymax>
+			<xmin>17</xmin>
+			<ymin>435</ymin>
+			<xmax>70</xmax>
+			<ymax>476</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>66</xmin>
-			<ymin>267</ymin>
-			<xmax>137</xmax>
-			<ymax>348</ymax>
+			<xmin>82</xmin>
+			<ymin>265</ymin>
+			<xmax>131</xmax>
+			<ymax>330</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>285</xmin>
-			<ymin>260</ymin>
-			<xmax>356</xmax>
-			<ymax>341</ymax>
+			<xmin>299</xmin>
+			<ymin>270</ymin>
+			<xmax>348</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>426</xmin>
-			<ymin>351</ymin>
-			<xmax>497</xmax>
-			<ymax>432</ymax>
+			<xmin>434</xmin>
+			<ymin>363</ymin>
+			<xmax>483</xmax>
+			<ymax>428</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>575</xmin>
-			<ymin>377</ymin>
-			<xmax>646</xmax>
-			<ymax>458</ymax>
+			<xmin>583</xmin>
+			<ymin>384</ymin>
+			<xmax>632</xmax>
+			<ymax>449</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>683</xmin>
-			<ymin>320</ymin>
-			<xmax>754</xmax>
-			<ymax>401</ymax>
+			<xmin>691</xmin>
+			<ymin>326</ymin>
+			<xmax>740</xmax>
+			<ymax>391</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>710</xmin>
-			<ymin>196</ymin>
-			<xmax>781</xmax>
-			<ymax>277</ymax>
+			<xmin>723</xmin>
+			<ymin>208</ymin>
+			<xmax>772</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boss</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>61</ymin>
+			<xmax>73</xmax>
+			<ymax>126</ymax>
 		</bndbox>
 	</object>
 </annotation>
